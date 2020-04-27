@@ -1,0 +1,1 @@
+This file consists of my php codes while I was learning php. These codes are realy basic.
